@@ -1,0 +1,14 @@
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+F:\Programowanie 3\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+F:\Programowanie 3\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+F:\Programowanie 3\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+F:\Programowanie 3\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+F:\Programowanie 3\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+F:\Programowanie 3\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
